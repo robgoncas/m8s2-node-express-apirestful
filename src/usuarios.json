@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Vendedor",
+    "email": "juan.perez@example.com",
+    "contrasena": "password123"
+  },
+  {
+    "id": 2,
+    "nombre": "Cliente",
+    "email": "maria.lopez@example.com",
+    "contrasena": "1234"
+  },
+  {
+    "id": 3,
+    "nombre": "Arica y Parinacota",
+    "email": "sin-email@ejemplo.com"
+  },
+  {
+    "id": 4,
+    "nombre": "2Roberto",
+    "email": "rob.gon2@gmail.com"
+  },
+  {
+    "id": 5,
+    "nombre": "2Roberto",
+    "email": "rob.gon2@gmail.com",
+    "status": "desactivado"
+  }
+]

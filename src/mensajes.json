@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "usuarioId": 1,
+    "contenido": "Hola",
+    "fecha": "2024-10-17T11:27:41.528Z"
+  },
+  {
+    "id": 2,
+    "usuarioId": 1,
+    "contenido": "como estas?",
+    "fecha": "2024-10-17T11:27:57.162Z"
+  },
+  {
+    "id": 3,
+    "usuarioId": 2,
+    "contenido": "bien todo bien y tu ??",
+    "fecha": "2024-10-17T11:28:11.578Z"
+  },
+  {
+    "id": 4,
+    "usuarioId": 2,
+    "contenido": "nonono",
+    "fecha": "2024-10-17T11:28:41.704Z"
+  },
+  {
+    "id": 5,
+    "usuarioId": 2,
+    "contenido": "Hola",
+    "fecha": "2024-10-17T11:28:51.366Z"
+  }
+]
